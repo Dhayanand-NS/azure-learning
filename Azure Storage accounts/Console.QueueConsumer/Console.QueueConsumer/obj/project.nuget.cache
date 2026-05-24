@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "sR5Eo0P97CQ=",
+  "success": true,
+  "projectFilePath": "D:\\azure\\Azure Storage accounts\\Console.QueueConsumer\\Console.QueueConsumer\\Console.QueueConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhaya\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
+    "C:\\Users\\dhaya\\.nuget\\packages\\azure.storage.common\\12.26.0\\azure.storage.common.12.26.0.nupkg.sha512",
+    "C:\\Users\\dhaya\\.nuget\\packages\\azure.storage.queues\\12.25.0\\azure.storage.queues.12.25.0.nupkg.sha512",
+    "C:\\Users\\dhaya\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\dhaya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\dhaya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\dhaya\\.nuget\\packages\\system.clientmodel\\1.8.0\\system.clientmodel.1.8.0.nupkg.sha512",
+    "C:\\Users\\dhaya\\.nuget\\packages\\system.io.hashing\\10.0.1\\system.io.hashing.10.0.1.nupkg.sha512",
+    "C:\\Users\\dhaya\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

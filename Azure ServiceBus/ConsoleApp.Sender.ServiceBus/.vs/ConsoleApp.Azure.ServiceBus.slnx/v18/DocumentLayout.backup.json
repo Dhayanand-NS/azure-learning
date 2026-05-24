@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\azure\\Azure ServiceBus\\ConsoleApp.Sender.ServiceBus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{450E0752-EFAE-B509-6EBC-BA00E5A28813}|ConsoleApp.Azure.ServiceBus\\ConsoleApp.Sender.ServiceBus.csproj|d:\\azure\\azure servicebus\\consoleapp.sender.servicebus\\consoleapp.azure.servicebus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450E0752-EFAE-B509-6EBC-BA00E5A28813}|ConsoleApp.Azure.ServiceBus\\ConsoleApp.Sender.ServiceBus.csproj|solutionrelative:consoleapp.azure.servicebus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450E0752-EFAE-B509-6EBC-BA00E5A28813}|ConsoleApp.Azure.ServiceBus\\ConsoleApp.Sender.ServiceBus.csproj|d:\\azure\\azure servicebus\\consoleapp.sender.servicebus\\consoleapp.azure.servicebus\\consoleapp.sender.servicebus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{450E0752-EFAE-B509-6EBC-BA00E5A28813}|ConsoleApp.Azure.ServiceBus\\ConsoleApp.Sender.ServiceBus.csproj|solutionrelative:consoleapp.azure.servicebus\\consoleapp.sender.servicebus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp.Sender.ServiceBus.csproj",
+              "DocumentMoniker": "D:\\azure\\Azure ServiceBus\\ConsoleApp.Sender.ServiceBus\\ConsoleApp.Azure.ServiceBus\\ConsoleApp.Sender.ServiceBus.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp.Azure.ServiceBus\\ConsoleApp.Sender.ServiceBus.csproj",
+              "ToolTip": "D:\\azure\\Azure ServiceBus\\ConsoleApp.Sender.ServiceBus\\ConsoleApp.Azure.ServiceBus\\ConsoleApp.Sender.ServiceBus.csproj",
+              "RelativeToolTip": "ConsoleApp.Azure.ServiceBus\\ConsoleApp.Sender.ServiceBus.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-09T01:03:22.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\azure\\Azure ServiceBus\\ConsoleApp.Sender.ServiceBus\\ConsoleApp.Azure.ServiceBus\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp.Azure.ServiceBus\\Program.cs",
+              "ToolTip": "D:\\azure\\Azure ServiceBus\\ConsoleApp.Sender.ServiceBus\\ConsoleApp.Azure.ServiceBus\\Program.cs",
+              "RelativeToolTip": "ConsoleApp.Azure.ServiceBus\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T01:58:20.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

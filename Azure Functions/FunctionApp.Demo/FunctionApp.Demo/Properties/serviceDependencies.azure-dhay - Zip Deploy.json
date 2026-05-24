@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/microsoft.insights/components/azure-dhay",
+      "type": "appInsights.azure",
+      "connectionId": "APPLICATIONINSIGHTS_CONNECTION_STRING"
+    },
+    "storage1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('serviceConnectorResourceGroupName')]/providers/Microsoft.Web/sites/azure-dhay/providers/Microsoft.ServiceLinker/linkers/AzureWebJobsStorage_7766A0422C, /subscriptions/faed2541-2e20-4dca-8605-b15855b81d64/resourceGroups/azure-dhay_group/providers/Microsoft.Web/sites/azure-dhay/providers/Microsoft.ServiceLinker/linkers/AzureWebJobsStorage_71D87C17C8",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/azuredhaygroup9950",
+      "type": "storage.azure",
+      "connectionId": "AzureWebJobsStorage",
+      "dynamicId": null
+    }
+  }
+}
