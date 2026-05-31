@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AzureMsEnrta.Client/AzureMsEnrta.Client.csproj" />
+  <Project Path="AzureNsEntra.API/AzureMsEntra.API.csproj" Id="a30b45c0-706b-48be-b881-6cd6df43f4b4" />
+</Solution>

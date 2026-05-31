@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|d:\\azure\\azure ms entra id\\azuremsenrta.client\\azuremsenrta.client\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|solutionrelative:azuremsenrta.client\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|d:\\azure\\azure ms entra id\\azuremsenrta.client\\azuremsenrta.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|solutionrelative:azuremsenrta.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|d:\\azure\\azure ms entra id\\azuremsenrta.client\\azuremsenrta.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|solutionrelative:azuremsenrta.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dhaya\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-AzureMsEnrta.Client-3d65fad1-1241-4e47-8d27-194c5af35166\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|d:\\azure\\azure ms entra id\\azuremsenrta.client\\azuremsenrta.client\\azuremsenrta.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|solutionrelative:azuremsenrta.client\\azuremsenrta.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30B45C0-706B-48BE-B881-6CD6DF43F4B4}|AzureNsEntra.API\\AzureMsEntra.API.csproj|d:\\azure\\azure ms entra id\\azuremsenrta.client\\azurensentra.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30B45C0-706B-48BE-B881-6CD6DF43F4B4}|AzureNsEntra.API\\AzureMsEntra.API.csproj|solutionrelative:azurensentra.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30B45C0-706B-48BE-B881-6CD6DF43F4B4}|AzureNsEntra.API\\AzureMsEntra.API.csproj|d:\\azure\\azure ms entra id\\azuremsenrta.client\\azurensentra.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30B45C0-706B-48BE-B881-6CD6DF43F4B4}|AzureNsEntra.API\\AzureMsEntra.API.csproj|solutionrelative:azurensentra.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30B45C0-706B-48BE-B881-6CD6DF43F4B4}|AzureNsEntra.API\\AzureMsEntra.API.csproj|d:\\azure\\azure ms entra id\\azuremsenrta.client\\azurensentra.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A30B45C0-706B-48BE-B881-6CD6DF43F4B4}|AzureNsEntra.API\\AzureMsEntra.API.csproj|solutionrelative:azurensentra.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|d:\\azure\\azure ms entra id\\azuremsenrta.client\\azuremsenrta.client\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|solutionrelative:azuremsenrta.client\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|d:\\azure\\azure ms entra id\\azuremsenrta.client\\azuremsenrta.client\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|solutionrelative:azuremsenrta.client\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|d:\\azure\\azure ms entra id\\azuremsenrta.client\\azuremsenrta.client\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|solutionrelative:azuremsenrta.client\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|d:\\azure\\azure ms entra id\\azuremsenrta.client\\azuremsenrta.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CFCCD06-BEE7-0883-D3FF-9B21301C840D}|AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj|solutionrelative:azuremsenrta.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\dhaya\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-AzureMsEnrta.Client-3d65fad1-1241-4e47-8d27-194c5af35166\\secrets.json",
+              "ToolTip": "C:\\Users\\dhaya\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-AzureMsEnrta.Client-3d65fad1-1241-4e47-8d27-194c5af35166\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-31T18:21:54.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AzureMsEnrta.Client.csproj",
+              "DocumentMoniker": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj",
+              "RelativeDocumentMoniker": "AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj",
+              "ToolTip": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj",
+              "RelativeToolTip": "AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-31T13:59:03.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\Program.cs",
+              "RelativeDocumentMoniker": "AzureMsEnrta.Client\\Program.cs",
+              "ToolTip": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\Program.cs",
+              "RelativeToolTip": "AzureMsEnrta.Client\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T10:17:55.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureNsEntra.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AzureNsEntra.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureNsEntra.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AzureNsEntra.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T09:34:28.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AzureMsEnrta.Client\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "AzureMsEnrta.Client\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T09:26:19.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\appsettings.json",
+              "RelativeDocumentMoniker": "AzureMsEnrta.Client\\appsettings.json",
+              "ToolTip": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\appsettings.json",
+              "RelativeToolTip": "AzureMsEnrta.Client\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-31T09:18:28.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureNsEntra.API\\Program.cs",
+              "RelativeDocumentMoniker": "AzureNsEntra.API\\Program.cs",
+              "ToolTip": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureNsEntra.API\\Program.cs",
+              "RelativeToolTip": "AzureNsEntra.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T09:10:29.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureNsEntra.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AzureNsEntra.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureNsEntra.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AzureNsEntra.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-31T09:31:09.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AzureMsEnrta.Client\\appsettings.Development.json",
+              "ToolTip": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\appsettings.Development.json",
+              "RelativeToolTip": "AzureMsEnrta.Client\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-31T09:43:27.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AzureMsEnrta.Client\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AzureMsEnrta.Client\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T18:46:48.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "AzureMsEnrta.Client\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\Pages\\Index.cshtml",
+              "RelativeToolTip": "AzureMsEnrta.Client\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T18:46:24.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AzureMsEnrta.Client\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\azure\\Azure MS Entra Id\\AzureMsEnrta.Client\\AzureMsEnrta.Client\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AzureMsEnrta.Client\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-30T18:06:20.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

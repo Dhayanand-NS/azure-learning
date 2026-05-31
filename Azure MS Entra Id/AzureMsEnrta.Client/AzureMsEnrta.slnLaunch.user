@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AzureMsEnrta.Client\\AzureMsEnrta.Client.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AzureNsEntra.API\\AzureMsEntra.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
